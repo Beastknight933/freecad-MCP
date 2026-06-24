@@ -1,0 +1,48 @@
+{
+  "recommendations": [
+
+    // Python development
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-python.mypy-type-checker",
+    "charliermarsh.ruff",
+
+    // Astral ty - experimental Python type checker (from ruff/uv makers)
+    "astral-sh.ty",
+
+    // Just (command runner)
+    "skellock.just",
+
+    // Docker
+    "ms-azuretools.vscode-docker",
+    "exiasr.hadolint",
+
+    // GitHub Actions
+    "GitHub.vscode-github-actions",
+
+    // Configuration files
+    "tamasfe.even-better-toml",
+    "redhat.vscode-yaml",
+
+    // EditorConfig (consistent coding styles across editors)
+    "editorconfig.editorconfig",
+
+    // Enhanced comment highlighting (TODO, FIXME, etc.)
+    "aaron-bond.better-comments",
+
+    // Markdown
+    "DavidAnson.vscode-markdownlint",
+
+    // Shell scripts
+    "timonwong.shellcheck",
+
+    // Git
+    "eamodio.gitlens",
+
+    // Spell checking
+    "streetsidesoftware.code-spell-checker",
+
+    // Qt/PySide development (FreeCAD uses Qt for GUI)
+    "theqtcompany.qt-ui"
+  ]
+}
